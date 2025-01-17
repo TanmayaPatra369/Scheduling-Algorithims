@@ -43,7 +43,8 @@ Welcome to the **Scheduling Algorithms** repository! This project is a comprehen
 ## Usage
 1. Run the main script to explore the scheduling algorithms:
    ```bash
-   python main.py
+   gcc name.c
+   ./a.out name
    ```
 2. Provide input details for processes as prompted.
 3. Select the scheduling algorithm you want to analyze.
@@ -59,11 +60,6 @@ Contributions are welcome! If you'd like to improve the project or fix issues:
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Acknowledgments
 - [Resource 1: Scheduling Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/scheduling-algorithms/)
 - [Resource 2: Operating System Concepts by Silberschatz, Galvin, and Gagne]
@@ -73,7 +69,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any queries or feedback, feel free to reach out:
 - **Author:** Tanmaya Patra
-- **Email:** [your-email@example.com]
+- **Email:** tanmaypatra450@gmaicom
 - **GitHub Profile:** [TanmayaPatra369](https://github.com/TanmayaPatra369)
 
 ---
