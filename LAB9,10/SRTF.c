@@ -1,3 +1,5 @@
+#SHORTEST TIME REMAINING FIRST
+
 #include<stdio.h>
 #define max 30
 
