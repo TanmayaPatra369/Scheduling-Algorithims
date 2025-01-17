@@ -1,3 +1,5 @@
+#SHORTEST JOB FIRST
+
 #include <stdio.h>
 
 struct Process {
