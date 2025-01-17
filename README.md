@@ -11,7 +11,6 @@ Welcome to the **Scheduling Algorithms** repository! This project is a comprehen
   - Round Robin (RR)
   - Priority Scheduling (Preemptive and Non-Preemptive)
   - Multilevel Queue Scheduling
-  - Multilevel Feedback Queue Scheduling
 
 - **Interactive Interface:**
   - Input job details (arrival time, burst time, priority, etc.).
